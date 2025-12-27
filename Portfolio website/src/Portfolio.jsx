@@ -13,7 +13,7 @@ const Portfolio = () => {
       description: "Complete customer churn prediction with Streamlit. Interactive visualizations for business insights.",
       tech: ["Python", "Streamlit", "ML"],
       github: "https://github.com/digantadatta45/end-to-end-sales-forecasting",
-      demo: "https://end-to-end-sales-forecasting.streamlit.app/",
+      demo: "https://end-to-end-sales-forecasting-2qobgstqybppqnxipg9ei8.streamlit.app/",
       image: "/projects/sales.png"
     },
     {
@@ -21,7 +21,7 @@ const Portfolio = () => {
       description: "Interactive dashboard for data cleaning and exploratory analysis with comprehensive visualizations.",
       tech: ["Python", "Pandas", "EDA"],
       github: "https://github.com/digantadatta45/data-cleaning-eda-streamlit",
-      demo: "https://data-cleaning-eda-streamlit.streamlit.app/",
+      demo: "https://data-cleaning-eda-app-ad7mntnab8wv7hojmwrxuz.streamlit.app/",
       image: "/projects/eda.png"
     },
     {
@@ -29,7 +29,7 @@ const Portfolio = () => {
       description: "End-to-end ML pipeline with feature engineering and model evaluation for customer retention.",
       tech: ["Python", "ML", "Streamlit"],
       github: "https://github.com/digantadatta45/end-to-end-customer-churn-prediction",
-      demo: "https://end-to-end-customer-churn-prediction.streamlit.app/",
+      demo: "https://end-to-end-customer-churn-prediction-hxxtveotkuepfrvnucfayn.streamlit.app/",
       image: "/projects/churn.png"
     },
     {
@@ -37,7 +37,7 @@ const Portfolio = () => {
       description: "Real-time prediction system with model insights and feature importance analysis.",
       tech: ["Python", "Regression"],
       github: "https://github.com/digantadatta45/house-price-predictions",
-      demo: "https://house-price-predictions.streamlit.app/",
+      demo: "https://house-price-predictions-affkauvvmucwpfugdyaowm.streamlit.app/",
       image: "/projects/house.png"
     },
     {
@@ -45,7 +45,7 @@ const Portfolio = () => {
       description: "Healthcare analytics system for patient risk assessment with interactive interface.",
       tech: ["Healthcare ML"],
       github: "https://github.com/digantadatta45/heart-disease-streamlit",
-      demo: "https://heart-disease-streamlit.streamlit.app/",
+      demo: "https://heart-disease-app-shohanw3ab49cnfwrjnu6u.streamlit.app/",
       image: "/projects/heart.png"
     },
     {
@@ -53,7 +53,7 @@ const Portfolio = () => {
       description: "Logistic regression model with metrics, confusion matrix, and S-curve visualizations.",
       tech: ["Logistic Regression"],
       github: "https://github.com/digantadatta45/Breast-cancer-logistic-regression",
-      demo: "https://breast-cancer-logistic-regression.streamlit.app/",
+      demo: "https://breast-cancer-logistic-regression-wqeznareva59awg6nhxbtn.streamlit.app/",
       image: "/projects/cancer.png"
     }
   ];
@@ -244,5 +244,6 @@ PROJECTS:
     </div>
   );
 };
+
 
 export default Portfolio;
